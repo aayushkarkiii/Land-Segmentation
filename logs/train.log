@@ -1,0 +1,18 @@
+[2025-05-12 17:55:18] - Land Cover Semantic Segmentation Train Logs - {train.py:89} - INFO - Divided images into patches successfully!
+[2025-05-12 17:55:18] - Land Cover Semantic Segmentation Train Logs - {train.py:98} - INFO - Divided masks into patches successfully!
+[2025-05-12 17:55:18] - Land Cover Semantic Segmentation Train Logs - {train.py:107} - INFO - Discarded unused patches successfully!
+[2025-05-12 17:55:18] - Land Cover Semantic Segmentation Train Logs - {train.py:121} - INFO - Training and validation data split successfully!
+[2025-05-12 17:55:22] - Land Cover Semantic Segmentation Train Logs - {train.py:144} - INFO - Built the model successfully!
+[2025-05-12 17:55:22] - Land Cover Semantic Segmentation Train Logs - {train.py:170} - ERROR - Failed to initialize training and validation datasets and dataloaders!
+[2025-05-12 17:55:38] - Land Cover Semantic Segmentation Train Logs - {train.py:89} - INFO - Divided images into patches successfully!
+[2025-05-12 17:55:38] - Land Cover Semantic Segmentation Train Logs - {train.py:98} - INFO - Divided masks into patches successfully!
+[2025-05-12 17:55:38] - Land Cover Semantic Segmentation Train Logs - {train.py:107} - INFO - Discarded unused patches successfully!
+[2025-05-12 17:55:38] - Land Cover Semantic Segmentation Train Logs - {train.py:121} - INFO - Training and validation data split successfully!
+[2025-05-12 17:55:38] - Land Cover Semantic Segmentation Train Logs - {train.py:144} - INFO - Built the model successfully!
+[2025-05-12 17:55:38] - Land Cover Semantic Segmentation Train Logs - {train.py:170} - ERROR - Failed to initialize training and validation datasets and dataloaders!
+[2025-05-13 22:51:22] - Land Cover Semantic Segmentation Train Logs - {train.py:89} - INFO - Divided images into patches successfully!
+[2025-05-13 22:51:22] - Land Cover Semantic Segmentation Train Logs - {train.py:98} - INFO - Divided masks into patches successfully!
+[2025-05-13 22:51:22] - Land Cover Semantic Segmentation Train Logs - {train.py:107} - INFO - Discarded unused patches successfully!
+[2025-05-13 22:51:22] - Land Cover Semantic Segmentation Train Logs - {train.py:121} - INFO - Training and validation data split successfully!
+[2025-05-13 22:51:22] - Land Cover Semantic Segmentation Train Logs - {train.py:144} - INFO - Built the model successfully!
+[2025-05-13 22:51:22] - Land Cover Semantic Segmentation Train Logs - {train.py:170} - ERROR - Failed to initialize training and validation datasets and dataloaders!
