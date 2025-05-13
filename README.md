@@ -1,1 +1,1 @@
-A full fledge readme with documentation will be commited soon
+--A full-fledged readme with documentation will be committed soon
